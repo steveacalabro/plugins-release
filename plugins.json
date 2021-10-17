@@ -11,7 +11,7 @@
                 "sha512sum": "1f8043953cc3583eed8573c0c3ea83261f195375143057a7f6dd5531a8399575e7b80d53d8e17e7711ace349b3b65249912083dae288a968915d516e53fcafc5",
                 "version": "2.6.0",
                 "url": "https://github.com/steveacalabro/plugins-release/blob/master/release/quest-helper-2.6.0.jar?raw=true",
-                "requires": "^1.0.0"
+                "requires": "^2.6.0"
             }
         ]
     }
